@@ -40,8 +40,7 @@ public class StudentListPrint implements StudentService {
 					System.out.println(s);
 				}
 			}
-			
-		}else throw new MyException();
+		}
 	}
 
 }
