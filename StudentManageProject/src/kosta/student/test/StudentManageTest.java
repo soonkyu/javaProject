@@ -15,7 +15,7 @@ public class StudentManageTest {
 		// TODO Auto-generated method stub
 		Logger logger = Logger.getLogger("StudentProject~~~~~");
 		// logger.info("StudentManageTest");
-		
+		System.out.println("Hello world");
 		Scanner scan = new Scanner(System.in);
 		// 1. 학생정보 추가(번호/이름/주소/성별/반/키/나이/학년)
 		// 2. 성적정보 추가(번호, 성적입력)
